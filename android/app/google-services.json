@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1098288501094",
+    "project_id": "pic2note-d18cf",
+    "storage_bucket": "pic2note-d18cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098288501094:android:48814c766c520f69bc38a7",
+        "android_client_info": {
+          "package_name": "hr.blackfish.pic2note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098288501094-4ch18qetd26h3cnmdqnp8otn7ncs17g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3y3yY5fo8Hnw8ophG6_AX-SkfAMqevG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098288501094-4ch18qetd26h3cnmdqnp8otn7ncs17g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098288501094:android:b0c5839862a6c0e3bc38a7",
+        "android_client_info": {
+          "package_name": "org.hopto.blackfish.pic2note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098288501094-4ch18qetd26h3cnmdqnp8otn7ncs17g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3y3yY5fo8Hnw8ophG6_AX-SkfAMqevG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098288501094-4ch18qetd26h3cnmdqnp8otn7ncs17g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
