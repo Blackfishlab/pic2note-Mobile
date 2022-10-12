@@ -1,16 +1,19 @@
-# pic2note
+# pic2note Mobile Application
 
-A new Flutter project.
+pic2Note application provides “photo post-it” functionality
 
-## Getting Started
+There are two flavors of pic2Note application: Mobile and Web
 
-This project is a starting point for a Flutter application.
+pic2Note Mobile application has full functionality – user management, taking images and adding notes and note management
 
-A few resources to get you started if this is your first Flutter project:
+pic2Note Web application has limited functionality – existing users can browse thir images, modify image notes and delete images
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+pic2Note Mobile application is wrtten in Flutter
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+pic2Note Web application is written in Angular
+
+Both applications use Google Firebase as backend
+
+
+For more info please visit:
+http://blackfish.hr/pic2note/
